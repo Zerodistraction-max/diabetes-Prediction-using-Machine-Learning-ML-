@@ -1,0 +1,5 @@
+#LINK of google collab
+https://colab.research.google.com/drive/14ss63TRFjIJHG3_ia790-R09xON3hUe0#scrollTo=LnPbntVRnfvV
+
+# command for the anaconda navigator cmd
+streamlit run "C:\Users\Asus\OneDrive\Desktop\PYPROJECT_Anaconda\Diabetes Prediction web app.py"
